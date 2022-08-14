@@ -7,4 +7,5 @@ version name: 1
 Aplicativo que calcula qual combustível está valendo mais a pena de ser adotado para seu veículo flex.
 
 # Imagem App
-![image](https://user-images.githubusercontent.com/43394727/184556522-34a1f675-0525-48a1-a039-afbcf07a9c38.png)
+
+![image](https://user-images.githubusercontent.com/43394727/184556586-90272c3f-b3ec-4b1f-96ad-42f2914cdf29.png)
