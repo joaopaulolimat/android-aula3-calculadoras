@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora Combustível</string>
+    <string name="lcool_ou_gasolina">Álcool ou Gasolina</string>
+    <string name="melhor_op_o_para_seu_carro_flex">Melhor opção para seu carro Flex!</string>
+    <string name="calcular">Calcular</string>
+    <string name="nenhuma_op_o_selecionada">Nenhuma opção selecionada</string>
+    <string name="cone_de_bomba_de_combust_vel">Ícone de bomba de combustível</string>
+    <string name="pre_o_da_gasolina_r_5_75">Preço da Gasolina R$5,75</string>
+    <string name="pre_o_do_lcool_r_3_70">Preço do Álcool R$3,70</string>
+</resources>
