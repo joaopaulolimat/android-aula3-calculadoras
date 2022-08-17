@@ -9,8 +9,10 @@ Aplicativo que aponta num plano cartesiano as coordenadas de um item lido por 3 
 É necessário apontar dentro do plano cartesiano as coordenadas dos 3 leitores (x e y) e as distâncias que os leitores apontaram do objeto lido.
 
 O cálculo feito é o representado pela imagem abaixo: 
+
+
 ![image](https://user-images.githubusercontent.com/43394727/185010456-1698356b-087c-493c-8c44-e7feb615d42f.png)
 
 
 # Imagem App
-![image](https://user-images.githubusercontent.com/43394727/185010517-59f7e003-5180-4c68-b541-e4ed7234e457.png)
+![Screenshot_20220816_215751](https://user-images.githubusercontent.com/43394727/185010620-ca96a6ed-a556-40d0-9c40-11d9ce45dd0b.png)
