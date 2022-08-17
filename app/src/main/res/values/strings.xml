@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Calculadora Combustível</string>
+    <string name="app_name">Calculadora de Trilateração</string>
     <string name="lcool_ou_gasolina">Álcool ou Gasolina</string>
     <string name="melhor_op_o_para_seu_carro_flex">Melhor opção para seu carro Flex!</string>
     <string name="calcular">Calcular</string>
@@ -7,4 +7,18 @@
     <string name="cone_de_bomba_de_combust_vel">Ícone de bomba de combustível</string>
     <string name="pre_o_da_gasolina_r_5_75">Preço da Gasolina R$5,75</string>
     <string name="pre_o_do_lcool_r_3_70">Preço do Álcool R$3,70</string>
+    <string name="informa_es_dos_leitores">Informações dos Leitores</string>
+    <string name="coordenadas">Coordenadas</string>
+    <string name="leitor_1_coordenadas">Leitor 1 - Coordenadas</string>
+    <string name="x">X</string>
+    <string name="coordenada_x">Coordenada X</string>
+    <string name="y">Y</string>
+    <string name="coordenada_y">Coordenada Y</string>
+    <string name="leitor_2_coordenadas">Leitor 2 - Coordenadas</string>
+    <string name="leitor_3_coordenadas">Leitor 3 - Coordenadas</string>
+    <string name="dist_ncia">Distância</string>
+    <string name="dist_ncia_de_leitura_do_objeto">Distância leitor - objeto</string>
+    <string name="nome">Nome</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="calculadora_de_trilatera_o">Calculadora de Trilateração</string>
 </resources>
