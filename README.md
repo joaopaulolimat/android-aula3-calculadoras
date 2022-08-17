@@ -8,4 +8,4 @@ Aplicativo que calcula qual combustível está valendo mais a pena de ser adotad
 
 # Imagem App
 
-![image](https://user-images.githubusercontent.com/43394727/184556586-90272c3f-b3ec-4b1f-96ad-42f2914cdf29.png)
+![Screenshot_20220816_220050](https://user-images.githubusercontent.com/43394727/185010865-4fbc7554-15e2-4e2a-bcc6-324091ac19b9.png)
